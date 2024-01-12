@@ -1,0 +1,8 @@
+@article{REPO218,
+    author = "Nguyen, Ngoc-Bao and Chandrasegaran, Keshigeyan and Abdollahzadeh, Milad and Cheung, Ngai-Man",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "16384-16393",
+    title = "{Re-Thinking Model Inversion Attacks Against Deep Neural Networks}",
+    year = "2023"
+}
