@@ -1,0 +1,2 @@
+Save_dir,Method,Succesful_samples,acc,std,acc5,std5,fid,knn
+./attack_results/kedmi_300ids/ffhq_IR152/ours/latent,kedmi,ours,79.60,1.47,96.33,0.76,0.00,2583.74

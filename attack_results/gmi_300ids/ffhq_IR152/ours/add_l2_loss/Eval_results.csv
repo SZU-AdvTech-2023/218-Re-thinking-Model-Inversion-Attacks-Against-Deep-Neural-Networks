@@ -1,0 +1,2 @@
+Save_dir,Method,Succesful_samples,acc,std,acc5,std5,fid,knn
+./attack_results/gmi_300ids/ffhq_IR152/ours/latent,gmi,ours,78.80,3.96,94.00,2.61,0.00,2566.49

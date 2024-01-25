@@ -1,0 +1,2 @@
+Save_dir,Method,Succesful_samples,acc,std,acc5,std5,fid,knn
+./attack_results/gmi_300ids/celeba_IR152/ours/latent,gmi,ours,85.07,3.25,98.67,2.00,0.00,2741.26

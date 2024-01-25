@@ -1,0 +1,2 @@
+Save_dir,Method,Succesful_samples,acc,std,acc5,std5,fid,knn
+./attack_results/gmi_300ids/ffhq_IR152/L_aug/latent,gmi,L_aug,68.47,4.30,88.00,3.03,0.00,2519.00

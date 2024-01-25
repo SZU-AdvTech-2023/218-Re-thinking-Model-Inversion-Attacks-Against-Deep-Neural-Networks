@@ -1,0 +1,2 @@
+Save_dir,Method,Succesful_samples,acc,std,acc5,std5,fid,knn
+./attack_results/kedmi_300ids/celeba_IR152/L_aug/latent,kedmi,L_aug,92.13,2.50,99.33,0.51,0.00,2756.41
